@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inhee_ui/static/css/main.1e996564.css",
+    "main.js": "/inhee_ui/static/js/main.ce0e32f2.js",
+    "index.html": "/inhee_ui/index.html",
+    "main.1e996564.css.map": "/inhee_ui/static/css/main.1e996564.css.map",
+    "main.ce0e32f2.js.map": "/inhee_ui/static/js/main.ce0e32f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e996564.css",
+    "static/js/main.ce0e32f2.js"
+  ]
+}
